@@ -1,3 +1,3 @@
-The Courses app consists of a scrollable grid of course topics.
-All photos by Romain Guy. All photos are licensed under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
-![WhatsApp Image 2024-10-29 at 17 24 45_534a6024](https://github.com/user-attachments/assets/92e58d13-8701-4902-b9e1-821d6a8d2e86)
+Unit 3
+
+![WhatsApp Image 2024-10-30 at 19 52 46_68de6adc](https://github.com/user-attachments/assets/3762f21b-d882-4ecf-b762-6f84880e79b3)
